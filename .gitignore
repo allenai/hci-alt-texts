@@ -1,0 +1,4 @@
+data/*
+.vscode/
+notebooks/.ipynb_checkpoints/
+scripts/
