@@ -12,7 +12,7 @@ The dataset is contained in `data/hci-alt-text-dataset-20220915.jsonl`. This is 
 
 An example:
 
-```json
+```python
 {
   'title': 'Effect of target size on non-visual text-entry',
   'pdf_hash': 'f65de96c15e33484bc85079b354f053fd9fe8ccc',
