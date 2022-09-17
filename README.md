@@ -2,7 +2,7 @@
 
 This repository contains the dataset and analysis scripts for the project described in the 2022 ASSETS paper:
 
-* Sanjana Chintalapati, Jonathan Bragg, Lucy Lu Wang. "A Dataset of Alt Texts from HCI Publications: Analyses and Uses Towards Producing More Descriptive Alt Texts of Data Visualizations in Scientific Papers." ASSETS 2022.
+* Sanjana Chintalapati, Jonathan Bragg, Lucy Lu Wang. "A Dataset of Alt Texts from HCI Publications: Analyses and Uses Towards Producing More Descriptive Alt Texts of Data Visualizations in Scientific Papers." ASSETS 2022. (Preprint forthcoming)
 
 We extract a dataset of alt text from HCI publications from the last decade, and provide annotations of the types of semantic content included in these alt texts based on the framework introduced by [Lundgard and Satyanarayan](http://vis.csail.mit.edu/pubs/vis-text-model/). Most figures in scientific papers lack alt text and we hope this dataset can help to improve the situation.
 
