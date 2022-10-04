@@ -43,6 +43,8 @@ Not all instances in this data file have been annotated, since some images corre
 
 There is also a field called `compound`. Some figures are compound, consisting of multiple images extracted from the PDF. These figures have been labeled as such. 
 
+For access to the images associated with the dataset, download and unzip [this file](https://ai2-s2-hci-alt-texts.s3-us-west-2.amazonaws.com/images.tar.gz) (`size: 82Mb, md5: f6ff2c06, sha1: 781a5815`) into a local directory. The URIs in the dataset point to the corresponding files.
+
 ## Setup environment
 
 1. Clone this repo into a directory such as `~/git/hci-alt-texts/`
