@@ -1,0 +1,457 @@
+{"corpus_id": 5040507, "sent_id": 1, "text": "More than 90% of workers completed less than 3000 HITs making the distribution long tail.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 220727229, "sent_id": 1, "text": "Values given in text.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 4351563, "sent_id": 2, "text": "These values are: Productivity (3.6), Information (3.3), Communication (3.3), Entertainment (2.5), and Social Media (2.4).", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 1, "text": "Clips at intelligibility level 50 tended to have low word error rate, those at intelligibility level 30 tended to have high word error rate, and those at intelligibility level 40 had more evenly distributed word error rate.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 33, "text": "For P2, 58 out of 59 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 14, "text": "For P3, 14 out of 14 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 2, "text": "Figure 7 - Line graph showing word error rate of worker transcriptions in a 10-step iterative workflow for the Alexa commands dataset.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 3, "text": "The x-axis shows percentage, centered at 0, and going up to 100 percent left and right.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 5, "text": "Dark green bars represent the days on which children interacted, light green represents days children did not interact, dark red represents days parents interacted, and light red represents days parents did not interact.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52941724, "sent_id": 4, "text": "There was no significant difference between these two conditions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 3, "text": "ASR transcription word error rate is constant across all 10 steps (at about 0.84) and average individual transcription word error rate is constant across all 10 steps (at about 0.4).", "labels": [0, 1, 1, 0]}
+{"corpus_id": 37154277, "sent_id": 0, "text": "A horizontal stacked bar graph of participants' ranks of the markup styles.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 4, "text": "The day-to-day curve trends down quicker over a two week period.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 78087743, "sent_id": 1, "text": "When using 20 images per object for training, the model achieves 0.618 (std: 0.114), 0.705 (std: 0.075), and 0.608 (std: 0.098) on the HO, CO, and O methods with the B data, respectively, and 0.855 (std: 0.087), 0.888 (std: 0.064), and 0.859 (std: 0.039) on the HO, CO, and O methods with the S data, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 1, "text": "The list of tasks, with percentages, are as follows: 1) Identify objects on the pre-made slide; 91.7%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 1878902, "sent_id": 0, "text": "Plot of mean proportion of image pixels differentiable (independent) for 0% - 100% of the population (dependent) for websites and infographics.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 4, "text": "Excess motion: Total trial vs last 1 second while locking on target.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 233987213, "sent_id": 0, "text": "The left bar chart is showing reasons participants reported for why delete indicators might stop them from using the delete function.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 4, "text": "The significant difference between each other is also visualised.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 6, "text": "Intonation had means of 7.85, 7.95, and 6.4.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5046516, "sent_id": 1, "text": "The vertical axis has ticks representing the answer choices: Strongly Disagree, Disagree, Neither agree nor disagree, Agree, Strongly Agree.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 2, "text": "I/O Braid was faster than Buttons (statistical significance).", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483029, "sent_id": 1, "text": "The controller in all cases moves significantly more than the HMD", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 9, "text": "About 35% of deaf participants never missed sounds, and about 50% missed more than once per day.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 226068671, "sent_id": 2, "text": "For dragging, a fit line for participants with motor impairments goes from about 2.5% to about 2% from the younger to older ends, and a fit line for participants without motor impairments goes from about 1.5% to about 1% from the younger to older ends.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218483029, "sent_id": 2, "text": "After this the Controller angle drops below the other curves.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 37154277, "sent_id": 2, "text": "The y axis is the 4 markup styles: Yellow, Underline, No Change, and Italics.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 4, "text": "The ranks are Ranked #1, Ranked #2, Ranked #3, and Ranked #4.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 10, "text": "10) Identify the text in the text box; 90.9%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 1, "text": "Heatmap of sleep data captured.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 1, "text": "Clips at intelligibility level 50 tended to have low word error rate, those at intelligibility level 30 tended to have high word error rate, and those at intelligibility level 40 had more evenly distributed word error rate.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 0, "text": "The results of the user study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482585, "sent_id": 2, "text": "Error Bars showing standard error.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 16636296, "sent_id": 0, "text": "Average worker ratings of all 10 trial sentences as dif- ferent canonical rules are applied.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 3, "text": "All error bars depict the standard error.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 201036718, "sent_id": 3, "text": "Minimum volume is 21.68, 25th quartile is at volume 804.62, 50th quartile (median) is at volume 1558.38, 75th quartile is at volume 3223.60, maximum volume is 1058397.75. Histogram is cut off above volumes of 12000.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 3343150, "sent_id": 0, "text": "Bar graph of the JND latency thresholds gathered from each participant during the small box dragging task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987213, "sent_id": 1, "text": "The chart is detailed in section 4.3 and shows most reported reason was to avoid negative assumptions, whilst fewest reported the reason was to avoid showing vulnerability.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 0, "text": "Time error graph of the moving target selection task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 4, "text": "Other styles ranged from 0.1 to 0.25 as their preference.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 2, "text": "Dark green represents days children interacted, light green represents days children did not interact, dark red represents days parents interacted, light orange represents days parents did not interact.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482946, "sent_id": 0, "text": "Box plots of SUS Scores, indicating the median, upper and lower quartiles, minimum and maximum values, and outliers.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 3, "text": "Word error rate increased as clip intelligibility decreased.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 11786113, "sent_id": 1, "text": "Figure 3 shows the Bar Graph visualization.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 2217868, "sent_id": 3, "text": "For higher thicknesses the gradient asymptotically decreases.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 233987213, "sent_id": 2, "text": "The right bar chart is showing reasons participants reported for why delete indicators would not stop them from using the delete function.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 235175667, "sent_id": 0, "text": "A stacked bar graph with each participant placed on the x-axis and the number of sound classes on the y-axis.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 573753, "sent_id": 1, "text": "For both user groups, differences between conditons are small and non-significant.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 25231320, "sent_id": 0, "text": "The bar graph for precision and recall for three different conditions.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 4, "text": "On the center is a bar graph of the number of rallies in Multi-player Pong for each participant.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987652, "sent_id": 1, "text": "Results are reported in section 7.4", "labels": [0, 0, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 5, "text": "The upper-left  (low age and high adoption age) and lower-right areas (high age and low adoption age) are empty.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 207957597, "sent_id": 0, "text": "Mean NS Motivation to Slow for NNS on a scale of 1 to 7, by presence or absence of Speech Speedometer for Trial 2 and Trial 3 (error bars represent standard errors of the mean)", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483389, "sent_id": 0, "text": "\"Distribution of participants' behavior in rooms 1, 2, and 3 according to avatar anthropomorphism and visibility.\"", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52938981, "sent_id": 0, "text": "Identification Accuracy, the percent who identified signs from stationary vs. animated characters, without training.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5040507, "sent_id": 0, "text": "A histogram of the number of HIT performed by workers.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 16712289, "sent_id": 4, "text": "Outliers with a high HIV prevalence rate and a low % of SHR language in ads include Wichita, KS and Jackson, MS.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 2, "text": "There are one bar for deaf participants, and one for hard-of-hearing participants in each condition.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 36, "text": "For P5, 7 out of 8 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5543753, "sent_id": 2, "text": "In all cases the bars for visible tasks are much smaller than those for invisble.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482585, "sent_id": 0, "text": "Bar chart of RSME results for respective gestures.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 0, "text": "Figure 2 - Histogram showing the distribution of word error rate of transcriptions generated by individual transcribers.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 3, "text": "Each column represents a family, from right to left, Fam 1 represents Family F1 to Fam 10 representing Family10.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 16636296, "sent_id": 1, "text": "Different rules have differ- ent effects although generally the trend is to increase simplicity as expected.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 5046516, "sent_id": 0, "text": "A boxplot titled Figure 10: H2-b for Errors Prevented Understanding (Likert).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 1, "text": "Worker transcriptions tended to converge resulting in overall increasing cosine similarity with each iteration step.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 49867125, "sent_id": 0, "text": "An image of two types of visualizations that are provided to the user.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 1, "text": "The highest score was about 90 points (P10) while the lowest was about 60 points (P7).", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 5, "text": "Other responses were all under about 12%. (b) At work, the bar chart takes a U-shape for both deaf and hard-of-hearing participants.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 4, "text": "Darker dots are clustered at the bottom-left (low age and low screen reader adoption age), and become lighter moving along the line to the upper-right (high age and high screen reader adoption age).", "labels": [1, 0, 1, 0]}
+{"corpus_id": 216635205, "sent_id": 5, "text": "A blue line (indicating one vehicle communicating) is also starting at approximately 4.65 but goes up to 4.80 for the low content condition.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 31, "text": "P10 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482675, "sent_id": 1, "text": "Along the x-axis, its notes the different conditions (all, competitive, and cooperative) and the y-axis denotes fixed and floating (as alternating rows), and the nature of the recorded data (digital space enemies targeted, physical space finger touch points, and physical floor space).''", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 19, "text": "For P8, 13 out of 13 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 10, "text": "A double asterisk is shown next to the behaviors Enunciation and Intonation as they had significant omnibus Friedman test results.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 218482970, "sent_id": 0, "text": "", "labels": [0, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 8, "text": "For P6, 30 out of 30 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 4, "text": "Both are represented by horizontal lines.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483032, "sent_id": 2, "text": "A denser than average line of points shows up along the top border of the image.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 140306385, "sent_id": 2, "text": "The bottom graph shows the average binned offset along the y-axes of the smartphone screen and the location of the clusters, three in total.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 1, "text": "The y-axis indicates median completion time and the x-axis indicates the pointing condition.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987070, "sent_id": 1, "text": "80 percent of students identified that they do not share videos during lecture, despite almost 70 percent who have access to webcams.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 1, "text": "Each chart displays the percentage of participants who reported missing sounds never, once/month, once/week, once/day, and more than once/day.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 9349793, "sent_id": 0, "text": "3D distribution of endpoints for each character.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 0, "text": "Bar chart of median completion time in milliseconds for the 7 pointing conditions in the smartphone study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 5, "text": "Yellow had 18.7%, 11.2%, 13.1%, and 57% for the ranks.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5815451, "sent_id": 0, "text": "A bar chat showing perceived usefulness, perceived ease of use and user acceptance, it shows that magnification is less preferred.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 15, "text": "For P4, 2 out of 3 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 140340306, "sent_id": 1, "text": "Germane was the most important category followed by Intrinsic, Participant's Characteristics, and Extraneous.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987615, "sent_id": 0, "text": "Number of trials and success rates of all 26 participants for all basic emotion they tried to mimic.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52941724, "sent_id": 1, "text": "First results are presented for the 9 participants who spoke in all three conditions, with median value of 48.882 for Markup, 41.828 for No ASR, and 50.541 for ASR.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 0, "text": "A horizontal bar graph which lists tasks on the Y-axis and percent success from 0.0%-100.0% on the X-axis.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 6, "text": "6) Determine the size of the rectangle relative to the oval; 54.5%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 3, "text": "Figure 7b.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 5, "text": "P7 and P8 performed around 9 rallies on average, while P9 performed less than 2 rallies on average.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 32, "text": "Participants\u2019 reactions during the Shapes activity: For P1, 5 out of 5 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 11, "text": "Part (b) of the figure shows a stacked bar plot showing percentages of 6-point scale responses for different categories of Change Visibility.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 3, "text": "The prominent feature is it_u being the most preferred with 0.5 and del_u having zero preference.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483029, "sent_id": 3, "text": "The Controller position does as well, but not as significantly.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 218482477, "sent_id": 5, "text": "The first sentence is \"1) Sig helped me feel more comfortable when deciding whether to interact with strangers on Twitter\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 7, "text": "On the bottom-right there is the mean chart of accuracy for VS task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 2, "text": "2) Identify rectangle color; 25.0%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 233987644, "sent_id": 1, "text": "The second line graph showing that the longitudinal acceleration output from an Inertia Detector has a similar trend with ground truth, but with a smaller magnitude.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 218483129, "sent_id": 6, "text": "For \"Toggle Suggestions\" 8.33% responded 1, 0% for 2, 0% for 3, 33.33% for 4, 33.33% for 5, and 25% for 6.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 8, "text": "The red line (indicating low information content) starts at 4.7 for the seeing going down to 4.3 for the VIP).", "labels": [1, 1, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 4, "text": "For \"On-screen\",  47% responded \"> 60 minutes\", 31 % responded \"30-60 minutes\",  6% responded \"15-29 minutes\",  6% responded \"10-15 minutes\",  6% responded \"5-9 minutes\", 3% responded \"1-4 minutes\".", "labels": [0, 1, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 4, "text": "On the right is the bar chart for the traditional documentation condition.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 25231320, "sent_id": 1, "text": "Total six bars are present. (Precision/Recall for three condition from C1, C2, to C3).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 6, "text": "Participants overall gave an average rating of 3.9/5 for this sentence.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 28, "text": "P7 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 2, "text": "Figure 3 - Bar graph showing average word error rates at the three intelligibility levels (30, 40, 50), for both automated and individual crowd worker approaches.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 6, "text": "Underline had 2.8%, 27.1%, 47.7%, and 22.4%.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 11, "text": "Hard-of-hearing participants followed a similar trend, but less extreme.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 1, "text": "The y-axis indicates mean score and the x-axis indicates TLX attributes.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52937893, "sent_id": 3, "text": "The training accuracy rises consistently, but the testing accuracy maxes out at round 45% at epoch 30 and slightly falls afterward.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218483129, "sent_id": 5, "text": "It can be seen that for \u201cToggle Suggestions\u201d, \u201cNo Suggestions\u201d, and \u201cSuggestions\u201d, the majority of responses are on the right side, while for the \u201cReplace All\u201d and \u201cAutomatic\u201d conditions, the majority of responses are on the left side.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 3, "text": "When using 1 image per object for training, the model achieves 0.400 (std: 0.068), 0.450 (std: 0.090), and 0.424 (std: 0.053) on the HO, CO, and O methods with the B data, respectively, and 0.587 (std: 0.056), 0.614 (std: 0.094), and 0.611 (std: 0.056) on the HO, CO, and O methods with the S data, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 2, "text": "The y axis is numeric, ranging from 0 to 0.8.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 8, "text": "(c) While mobile, the bar chart takes a U-shape for both deaf and hard-of-hearing participants.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 10597389, "sent_id": 0, "text": "Shows that users rated MultiClench sensations between 4-7 on a scale from very uncomfortable to very comfortable. And between 1-4 on a scale of not annoying at all to very annoying.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 140322449, "sent_id": 1, "text": "The     accuracy increases until 237 then plateaus.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 233987344, "sent_id": 9, "text": "9) Determine the text box's position on the slide; 45.5%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 15, "text": "For \u201cTrace\u201d and \u201cPop-up\u201d, the majority of responses are on the right side.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 6, "text": "Best Performing Single-Metric Model for Each Dependent Variable: 19.46\n2.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 207216527, "sent_id": 1, "text": "As count variance increases, so does the F1 score, with a clear correlation.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 16712289, "sent_id": 3, "text": "Outliers with a low HIV prevalence rate and a high % of SHR language in ads include SF Bay Area and Boise, ID.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 2, "text": "(c) The perceived cognitive workload measured using the RTLX score.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 18, "text": "P7 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 5, "text": "Mean accuracies for control, standing and walking conditions are %89.4, %87.9, and %78.3, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 4, "text": "The x-axis in each family column represents family members and the y-axis represents the day of the study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 226068689, "sent_id": 0, "text": "Plot comparing frequency of coded gestures (lateral, enclosure, counting, contour, two hands, one hand) between the construction and consumption conditions for two questions.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 11786113, "sent_id": 2, "text": "Figure 4 shows the Venn Graph visualization", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 11, "text": "The chart show favorable scores for I/O Braid and Scroll, whereas Buttons was the least popular.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 1, "text": "In the x-axis, there are 4 questions/sentences which were given to the participants using a 1-5 Likert scale.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 4, "text": "The ratio of each rating (from 1 to 5) is colored differently.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5815451, "sent_id": 1, "text": "Overall rates are positive.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 5, "text": "For P3, 1 out of 1 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 35269641, "sent_id": 0, "text": "Column graph shows results of Experiment 1: people's blame judgments for each of the four agents, for both action and inaction.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 9349793, "sent_id": 1, "text": "The top view and the left view show that the endpoints roughly follow a QWERTY layout.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 207247195, "sent_id": 2, "text": "It is identical to Table 3, Model 1", "labels": [0, 0, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 1, "text": "The y-axis shows the percentage of participants.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 1, "text": "The chart has 2 mini bar charts.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 9, "text": "P7 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483029, "sent_id": 0, "text": "A bar graph comparing the motion of the head and controller at 25, 50 and 75 degrees.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 2, "text": "For each attribute, each bar represents each pointing condition in the following sequence: VC, VBP2TR, VBP2TA, VBP1RR, WDP2TR, WDP2TA and WDP1RR.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 9, "text": "For \"Replace All\" 8.33% responded 1, 33.33% for 2, 16.67% for 3, 16.67% for 4, 25% for 5, and 0% for 6.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 51995155, "sent_id": 0, "text": "Timelines for each participant, showing that their use of the TInkercad mode increases over the study session.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 39, "text": "For P8, 8 out of 8 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 8, "text": "Mean accuracies for control, standing, and walking conditions are %86.4, %87.6, and %86.7, respectively", "labels": [0, 1, 0, 0]}
+{"corpus_id": 3244562, "sent_id": 0, "text": "This figure illustrates 3 dampening materials (cork, sorbothane, and spring) and their vibration properties.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 3, "text": "The following scale responses are shown from bottom to top: \"> 60 minutes\", \"30-60 minutes\", \"15-29 minutes\", \"10-15 minutes\", \"5-9 minutes\", \"1-4 minutes\", \"None at all\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 0, "text": "", "labels": [0, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 9, "text": "The blue line indicating high information content, starts at 4.5 and goes up to 4.9 for the VIP.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 6, "text": "For P4, 1 out of 1 were negative.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 11, "text": "The chart show favorable scores for I/O Braid and Scroll, whereas Buttons was the least popular.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 6, "text": "Note that these categories are aggregations of the participant ratings from the 7-point Likert scale results (between 1-Very Low Effort, and 7-Very High Effort).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 0, "text": "The results of the user study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 4, "text": "The values depicted in this Figure are mentioned in the text.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 49867125, "sent_id": 2, "text": "The Website Graph (bottom) shows the most common websites where pointing errors have occurred.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 1, "text": "On the x-axis is time in days and on the y-axis is battery voltage in volts.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 11, "text": "For P9, 31 out of 32 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 0, "text": "This Figure contains a 2D stacked column chart showing the results of the post-study survey (which was conducted after the field study).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 5, "text": "I/O Braid had more excess motion compared to Buttons and Scroll.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 3, "text": "The ultra low standby curve slowly trends downwards over fifty to sixty days.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 203579571, "sent_id": 0, "text": "This is a demonstration of text entry speed, mean UER and TER across 4 blocks in the evaluation.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 3343150, "sent_id": 0, "text": "Bar graph of the JND latency thresholds gathered from each participant during the large box dragging task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 199556928, "sent_id": 1, "text": "Curb ramp performance is best, with performance for missing ramps, obstructions, and surface problems all being somewhat worse.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 216635205, "sent_id": 4, "text": "A red line (red standing for two vehicles communicating) is starting left at approximately 4.65 and goes down to 4.45 five in the low content condition.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 2, "text": "On the  top-right, there is the mean response times chart for VS task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 207247195, "sent_id": 1, "text": "The slope is the same, with the black line having an intercept of about +2 compared to the red line.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 40, "text": "For P9, 31 out of 31 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 3, "text": "Meadn response time for control, standing, and walking conditions are 1.52 s, 1.50 s, 1.54 s, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 3, "text": "The prominent feature is No Change being the most preferred with 0.65.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987050, "sent_id": 0, "text": "\"Boxplots showing the sadness (left) and happiness (right) changes of wearers and non-wearers.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 6, "text": "The boxplots show median values with quartiles and min/max extent.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 13, "text": "For P2, 39 out of 39 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 10, "text": "For \"Automatic\" 16.67% responded 1, 33.33% for 2, 33.33% for 3, 8.33% for 4, 8.33% for 5, and 0% for 6.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 3, "text": "Participants\u2019 reactions during the Colors activity: For P1, 2 out of 2 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 8, "text": "The Rhythm game scores (excluding that of P1) were analyzed to show that participants with lower time error in the moving target selection task (study 2) scored higher in Rhythm game.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 4351563, "sent_id": 0, "text": "This figure is a bar chart of the average level of  meaningfulness for each of 5 different types of smartphone uses and gratifications.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 0, "text": "This figure is divided into two parts: (a) and (b).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52937893, "sent_id": 0, "text": "This figure contains two line graphs, a and b.  The a line graph represents the vision testing and training accuracy of the network over 80 epochs.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 0, "text": "Bar chart of mean score on each NASA TLX attribute for 7 pointing conditions in smartphone study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 1878902, "sent_id": 1, "text": "Increasing from 0% of the population, both plots start at 100% differentiable and gradually fall to 80% differentiable at 75% of the population.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 14909116, "sent_id": 7, "text": "Hard-of-hearing participants followed a similar curve.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 9349793, "sent_id": 0, "text": "3D distribution of endpoints for each character.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987213, "sent_id": 3, "text": "The chart is detailed in section 4.3.2 and shows most reported reason was the cost of it being read.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 2, "text": "In the vanilla environment, the model achieves 0.754 (std: 0.086), 0.747 (std: 0.102), and 0.704 (std: 0.028) on the HO, CO, and O method with the B data, respectively, and 0.937 (std: 0.011), 0.933 (std: 0.037), and 0.863 (std: 0.028) on the HO, CO, and O method with the S data, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 49867125, "sent_id": 3, "text": "When users hover over data points, additional information is shown.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 3, "text": "Furthermore, each bar per question/sentence shows the distribution of the ratings.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 3, "text": "Word error rate increased as clip intelligibility decreased.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 1878902, "sent_id": 2, "text": "Plots begin to diverge here as they both fall off more quickly until a discontinuity plateau is reached at 88% of the population (websites = 60% differentiable, infographics = 50% differentiable).", "labels": [0, 1, 1, 0]}
+{"corpus_id": 122568, "sent_id": 0, "text": "Another avatar performing the sentence: \"Do you like my shirt\"\nASL glosses: MY SHIRT YOU LIKE\nFAP01, FAP02, ..., FAP67: curves of these features applitude changing in time", "labels": [1, 0, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 3, "text": "In the wild environment, the model achieves 0.542 (std: 0.047), 0.667 (std: 0.040), and 0.532 (std: 0.065) on the HO, CO, and O method with the B data, respectively, and 0.796 (std: 0.095), 0.905 (std: 0.053), and 0.853 (std: 0.046) on the HO, CO, and O method with the S data, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 5, "text": "Multiple_Metric Model (corresponds to Figures 1, 2, and 3): 24.03\nSignificant deifference between 1 and 2: p < 0.05\nThe best single-metric model for Understand uses the FaceTotalFixTime eyetracking metric\n\nPercentage of Accounted Variance (Adj. R2) for Natural:\n1.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 8, "text": "Weighted average subjective feedback.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 207216527, "sent_id": 0, "text": "Plot of the F1 score (X axis) and count variance (Y axis).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482585, "sent_id": 1, "text": "From highest to lowest: Clap, Double Clap, Snap, Swipe and Wave.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987652, "sent_id": 0, "text": "Perceived accuracy bar chart of phraseflow in day 2,4,and 6 of the deployment study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 7, "text": "Figure 7c.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 18150448, "sent_id": 2, "text": "Labels on the charts indicate when individual rings were completed, and show two periods on Day 2 where no building occurred, labeled \"Replacing modules\" and \"Repairing structure\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 7, "text": "4 people gave a 3, 4 people gave a 4, and 3 people gave a 5.  Next, for \"2) How would you rate your overall experience of using Sig?\" the average rating was 4 out of 5. 2 people gave a 3, 7 people gave a 4, and 2 people gave a 5.  For \"3) Was Sig's visualization of various social signals easy to understand?\" the average score was 4.7 out of 5.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987644, "sent_id": 0, "text": "The first line graph showing that the discrete output from a Speed Detector almost fit the ground truth.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 573753, "sent_id": 0, "text": "Transfer scores in a bar chart.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5543753, "sent_id": 1, "text": "All numbers are in the text.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 7, "text": "For \"No Suggestions\" 0% responded 1, 8.33% for 2, 8.33% for 3, 33.33% for 4, 16.67% for 5, and 33.33% for 6.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 999354, "sent_id": 0, "text": "Boxplots showing average participant trial completion times by grid size and selection method.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987644, "sent_id": 2, "text": "The third line graph showing that the lateral acceleration output from an Inertia Detector has a similar trend with the ground truth, but cramped to -20 to 20.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 52941724, "sent_id": 2, "text": "There were significant differences between Markup and No ASR, as well as ASR and No ASR.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 3, "text": "Figure 7b.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 26, "text": "For P5, 21 out of 24 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 1, "text": "(a) The Task Completion Time in seconds that was needed for each navigation method. (b) The average amount of navigation errors.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5046516, "sent_id": 3, "text": "Please refer the subsection on the previous page for the median and modes for the WRAT levels.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 297030, "sent_id": 4, "text": "In general, the Finger Pointing mode is the highest (takes the most time), the Silent mode is next and the Verbal takes the least amount of time, although in the fourth and sixth sessions, the Verbal line is above the Silent one.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 218482970, "sent_id": 2, "text": "They show the average levels of self-disclosure for Thoughts & Feelings across the 20 days.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 2, "text": "The following lists each behavior groups with three means, one for high, medium, and low levels of that behavior.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 0, "text": "Scatterplot of Age (years) vs. Screen Reader Adoption Age (years).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 2, "text": "The title is \"User Initiative\", the y-axis has 5 categories; \"Toggle Suggestions\", \"No Suggestions\", \"Suggestions\", \"Replace All\", and \"Automatic\".", "labels": [0, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 3, "text": "On the y-axis, there is the dominance score from 4.45 to 4.80.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 1, "text": "Mean response time for control and standing conditinions are  5.59 s, and 5.41 s, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 5, "text": "Finally, the intensive use curve trends down even quicker still in three to four days.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 14909116, "sent_id": 3, "text": "(a) At home, about 30% of deaf participants never missed sounds and 50% missed sounds more than once per day.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 11, "text": "11) Determine the text box's position relative to the other objects; 36.4%", "labels": [1, 1, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 3, "text": "Dots appear clustered along a line with slope just under 1.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 2217868, "sent_id": 4, "text": "Furthermore, a table lists the measured average capacitance readings when touched and not touched by a finger (including standard deviations), and the respective Signal-to-noise ratio for varying overlay thicknesses of 0.25, 0.5, 1, 2, 10, and 15 mm.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 13, "text": "The x-axis shows percentage, centered at 0, and going up to 100 percent left and right.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 2217868, "sent_id": 2, "text": "For thicknesses up to 10 mm the Signal-to-noise ratio drastically decreases with increasing thickness (resulting in a high gradient), but lies above a minimal value of 5, indicating robust measurements.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 26673257, "sent_id": 1, "text": "(a) The Task Completion Time in seconds that was needed for each navigation method. (b) The average amount of navigation errors.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 22, "text": "Participants\u2019 reactions during the Numbers activity: For P1, 8 out of 8 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14203195, "sent_id": 0, "text": "Graphs of Response Times across situations, Response Times across Modalities and the Interaction between Situation and Modality", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 8, "text": "8) Determine the direction the arrow is pointing; 0.0%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218482970, "sent_id": 1, "text": "The average self-disclosure level of different groups over time.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5543753, "sent_id": 1, "text": "All bar look quiete similar except for ease of use, efficency to use, user experience and zooming.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 15927048, "sent_id": 1, "text": "Interaction count (drags) across values.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 0, "text": "This figure shows a stacked column graph.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 0, "text": "This figure has two graphs that show the average accuracy depending on the background environment of objects: vanilla and wild.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 16712289, "sent_id": 6, "text": "In general, locations with a higher population tend to have a greater percentage of ads containing SHR language.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 226068671, "sent_id": 1, "text": "For pointing, a fit line for participants with motor impairments goes from about 4% to about 2.5% from the younger to older ends, and a fit line for participants without motor impairments goes from about 2.5% to about 2% from the younger to older ends.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 140340306, "sent_id": 0, "text": "A bar graph showing the feature importance by category.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 49867125, "sent_id": 1, "text": "The Error Type Graph (top) shows the frequency of different kinds of error types over time.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 2, "text": "On the x-axis, there are the two levels for the theme \"information content\" (high and low).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 207247195, "sent_id": 0, "text": "Graph of Model 6 priors showing two lines with a negative slope.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 220727229, "sent_id": 0, "text": "A bar graph comparing the model performance of the four models across the there sound categories.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 207247195, "sent_id": 0, "text": "Graph of M1 posteriors showing a flat line.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 53224149, "sent_id": 2, "text": "Taiwan: Intervention: 4.17 Instruction: 7.7 Open-Ended: 6 Augmentation: 8.83 Warmth: 4.83  China: Intervention: 2.4 Instruction: 5.0 Open-Ended: 7.4 Augmentation: 7.4 Warmth: 1.6  U.S. Intervention: 0.5 Instruction: 4.5 Open-Ended: 8.1 Augmentation: 20.9 Warmth: 9.9", "labels": [0, 1, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 4, "text": "On the bottom-left, there is the accuracy chart for MOT task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482946, "sent_id": 1, "text": "The median of Snapshot is higher than for AR and the interquartile range is larger, but AR has two low outliers and Snapshot only 1.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218483529, "sent_id": 6, "text": "The boxplots show median values with quartiles and min/max extent.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 16712289, "sent_id": 1, "text": "The relationship is estimated linearly by the equation SHR language = 46.360 + 0.009 * prevalence rate, p = 0.009.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 10, "text": "We multiplied the score by the number of times the technique received that rating and computed an average for all the scores.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 0, "text": "Figure 8 is a chart illustrating participants' ratings of how much effort it took to document knowledge for think-aloud and traditional documentation techniques.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 35, "text": "For P4, 10 out of 11 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 52944617, "sent_id": 0, "text": "", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 17, "text": "For \"Trace\" 0% responded 1, 0% for 2, 16.67% for 3, 16.67% for 4, 25% for 5, and 41.67% for 6.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 37, "text": "For P6, 10 out of 10 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 53224149, "sent_id": 1, "text": "Each bubble has a number label corresponding to its area, which reflects the average number of a times a parent from the sample (row) performed the specific behavior (column) during the instructional game session.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 25231320, "sent_id": 2, "text": "The values are as follows: C1 Precision : 86.9%, C1 Recall 62.7%, C2 Precision 94.7%, C2 Recall 66.8%, C3 Precision 99.2%, C3 Recall 90.0%", "labels": [1, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 2, "text": "(c) The perceived cognitive workload measured using the RTLX score.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 0, "text": "On the far left is a bar graph of the Whack-A-Mole scores for each participant.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 10, "text": "We multiplied the score by the number of times the technique received that rating and computed an average for all the scores.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 2, "text": "There are three curves, all trending downward from approximately 4.2 volts.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 8035131, "sent_id": 21, "text": "P10 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 1, "text": "Time on task Boxplot with task completion times for the three input devices.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 2, "text": "Figure 3 - Bar graph showing average word error rates at the three intelligibility levels (30, 40, 50), for both automated and individual crowd worker approaches.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 7, "text": "Figure 7c.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 24, "text": "For P3, 2 out of 2 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 18, "text": "For \"Pop-up\" 8.33% responded 1, 25% for 2, 8.33% for 3, 8.33% for 4, 16.67% for 5, and 33.33% for 6.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 140323531, "sent_id": 0, "text": "Three line chart graphs showing recognition accuracy rates for stroke-gestures articulated by participants with and without motor impairments", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 0, "text": "A vertical bar graph of participants' preferences of the markup styles.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 11786113, "sent_id": 0, "text": "Figure 3 and Figure 4.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 12, "text": "Participants\u2019 reactions during the Money activity: For P1, 5 out of 5 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 4, "text": "Other styles ranged from 0.3 to 0.45 as their preference with Italics being ahead of Yellow and Underline.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 297030, "sent_id": 2, "text": "There is a line for the three modes: Silent, Verbal and Finger Pointing.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 3187042, "sent_id": 0, "text": "This figure presents a collum chart with the MSD Error Rate for each method.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482708, "sent_id": 1, "text": "Bold lines indicate mean values for different participants and the colored areas indicate the range of standard deviations.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 235175667, "sent_id": 1, "text": "P9 and P4 each recorded between 25-30 sound classes; eight participants each recorded between 15-20; and P10 and P11 recorded between 10-15.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 38, "text": "P7 did not demonstrate any reactions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 4, "text": "Voice intensity had means of 6.9, 7.25, and 5.9.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 140322449, "sent_id": 0, "text": "A line plot showing the progression of training at each epoch.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 2, "text": "Rows represent the type of interaction (from top to bottom): audio reflection, mood reporting, and views.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51995155, "sent_id": 0, "text": "Bar charts comparing the time to complete the three transfer tasks in the control and experimental conditions.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987781, "sent_id": 0, "text": "The bar charts show the maximum frequencies under different tubing configurations and different force magnitude.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 4, "text": "About 25% of hard-of-hearing participants missed sounds once/week, and about 50% more than once per day.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5815451, "sent_id": 2, "text": "Error bars show moderate stand deviation.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 234794797, "sent_id": 7, "text": "Eye contact had means of 7.95, 7.8, and 7.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 0, "text": "Three set of graphs: Grammar, Understand, and Natural.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483032, "sent_id": 1, "text": "Clockwise from the top left, the colors are blue, purple, red, yellow, green.  In this plot, most of the points are scattered relatively evenly over the top two-thirds of the space, though the bottom third is sparse.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 0, "text": "A bar graph of participants' preferences of the markup styles.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 6, "text": "Subfigure b shows for the x-axis the two levels of sight: seeing on the left and VIP on the right.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 3, "text": "All error bars depict the standard error.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 207216527, "sent_id": 1, "text": "As the playback speed (Y axis) increased, the response speed (X axis) decreases less than linearly.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 234794797, "sent_id": 11, "text": "A double asterisk, denoting pairwise significant differences are shown between the pairs medium and low enunciation as well as high and low intonation.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 218483029, "sent_id": 0, "text": "A line graph showing 4 curves, one each for HMD position, HMD angle, Controller position, and Controller Angle.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987050, "sent_id": 1, "text": "The changes are calculated by subtracting the ratings in the control condition from the ratings in other conditions (emotion ratings in the glasses-without/with-tears condition - emotion ratings in the control condition).\"", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 0, "text": "Figure 6 - Line graph with iteration step on the X axis and cosine similarity on the Y axis, with one line for each of three intelligibility levels (30, 40, 50).", "labels": [0, 0, 0, 0]}
+{"corpus_id": 3187042, "sent_id": 2, "text": "the method with thefastest followed by MultiTap, NavTouch and BrailleTouch.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 26673257, "sent_id": 4, "text": "The values depicted in this Figure are mentioned in the text.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 1, "text": "Heatmap of interactions for each family.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 140247020, "sent_id": 1, "text": "The error bars in the graph indicate standard deviation.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 12, "text": "The title is \"Change Visibility\", the y-axis has 4 categories; \"Trace\", \"Pop-up\", \"No Trace\", and \"Sidebar\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 7, "text": "Multiple_Metric Model (corresponds to Figures 1, 2, and 3): 35.24\nSignificant deifference between 1 and 2: p < 0.001\nThe best single-metric model for Natural uses the PercentFaceFix eyetracking metric", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14923987, "sent_id": 1, "text": "Differences measured in CIE Luv units) Both lines rise sharply from 0 and drop sharply at 20 units, with a long tail to around 65 units.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 233987866, "sent_id": 7, "text": "On the far right is a scatter plot of Rhythm game score against moving target selection error.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 4, "text": "Individual transcribers outperformed the automated approach at each intelligibility level.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 0, "text": "On the top-left, there is the mean response times chart for MOT task.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 140341035, "sent_id": 0, "text": "Fifteen charts arranged in a 3 by 5 matrix showing growth curves for each of the 15 referents considered in this paper.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52937893, "sent_id": 1, "text": "The training data rises consistently, but the testing accuracy maxes out at around 25 epochs.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218482477, "sent_id": 8, "text": "3 people gave a 4 and 8 people gave a 5.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 2, "text": "The third graph (intel 50) shows iteration is able to produce transcriptions with average word error rate below 0.1, significantly outperforming automated and individual human approaches.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 233987866, "sent_id": 6, "text": "On the center right is a bar graph of the Rhythm game scores for each participant.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 1, "text": "Most participants produced shorter time errors for faster target speeds while P2 produced a constant error of approximately 200~ms regardless of the target speed.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 5, "text": "The iterative approach produced significantly lower word error rates than both other approaches, with a downwards trending line as the number of iteration steps increased.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 9349793, "sent_id": 1, "text": "The top view and the left view show that the endpoints roughly follow a QWERTY layout.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 297030, "sent_id": 5, "text": "There is a dot corresponding to the Braille mode at Session 6, it is between the Verbal and Silent modes.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 20, "text": "For \"Sidebar\" 50% responded 1, 10% for 2, 10% for 3, 20% for 4, 10% for 5, and 0% for 6.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 4, "text": "Excess motion: Total trial vs last 1 second while locking on target.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 9, "text": "Finally, for \"4) Would you be interested in using a refined version of Sig in the future?\", the average rating was 4.7 out of 5. 1 person gave a 2, 2 people gave a 3, 2 people gave a 4, and 6 people gave a 5.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 1, "text": "Subfigure a shows an interaction plot.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 4, "text": "The scale responses for 1-3 are on the left side, and 4-6 are on the right side.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 207216527, "sent_id": 0, "text": "Plot of the playback speed results.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 16712289, "sent_id": 2, "text": "Each location is represented by a circle, with the size of the circle representing its population relative to the other locations.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 34, "text": "For P3, 6 out of 6 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 3, "text": "Multiple_Metric Model (corresponds to Figures 1, 2, and 3): 21.67\nSignificant deifference between 1 and 2: p < 0.01\nThe best single-metric model for Grammar uses the NormFaceToFromHands eyetracking metric\n\nPercentage of Accounted Variance (Adj. R2) for Understand:\n1.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 15927048, "sent_id": 0, "text": "", "labels": [0, 0, 0, 0]}
+{"corpus_id": 10409718, "sent_id": 6, "text": "The relationship between control vs. walking and standing vs. walking are marked with *.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 8, "text": "Gesturing had means of 8.65, 7.95, and 7.60.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 15927048, "sent_id": 2, "text": "Error bars denote 95% confidence intervals.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 1, "text": "The first graph (intel 30) shows iteration fails to improve word error rate The second graph (intel 40) shows iteration produces transcriptions with significantly lower word error rate after 10 steps.", "labels": [1, 0, 1, 0]}
+{"corpus_id": 63285170, "sent_id": 1, "text": "Percentage of Accounted Variance (Adj. R2) for Grammar:\n1.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 201036718, "sent_id": 2, "text": "Histogram then falls off with a very long tail.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 201036718, "sent_id": 1, "text": "Rises sharply from 0-250 (over 500 participants) to a peak at 500-750 (over 3000 participants).", "labels": [0, 1, 1, 0]}
+{"corpus_id": 16712289, "sent_id": 0, "text": "This figure is a scatterplot showing the relationship between HIV Estimated Prevalence Rate Per 100,000 Population (CDC, 2011) on the x-axis and Percentage of Ads Containing Sexual Health-Related Language on the y-axis in 95 locations.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 5, "text": "I/O Braid had more excess motion compared to Buttons and Scroll.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51995155, "sent_id": 0, "text": "Bar chart showing subjective ratings of the unlockable features on usefulness, fun, and how annoying or disruptive they were perceived to be.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482477, "sent_id": 2, "text": "The y-axis is the average of the rating per each question/sentence.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483032, "sent_id": 3, "text": "", "labels": [0, 0, 1, 0]}
+{"corpus_id": 14909116, "sent_id": 6, "text": "About 35% of deaf participants never missed sounds, and about 40% missed sounds more than once per day, with all other answers under 15%.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 231993774, "sent_id": 2, "text": "On the left is the bar chart for the think-aloud condition.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 5, "text": "Enunciation had means of 6.9, 8.3, and 5.9.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51885373, "sent_id": 0, "text": "This figure is a graph of the battery power characteristics of the sensors.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 10, "text": "For P8, 22 out of 22 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 2, "text": "The first bar is VC, coloured grey, which is faster than other pointing conditions.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14923987, "sent_id": 0, "text": "Line graph showing histogram of differences between personalized and adjustable simulation  results for protan and deutan simulations.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 1878902, "sent_id": 3, "text": "Plateau gradually declines to 99% of population (websites = 55% differentiable, infographics = 45% differentiable), and then both plots fall to 0% differentiable for 100% of the population.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218483129, "sent_id": 19, "text": "For \"No Trace\" 8.33% responded 1, 33.33% for 2, 16.67% for 3, 16.67% for 4, 25% for 5, and 41.67% for 6.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 9, "text": "We mapped the 7-point Likert scale to a score in the range [-3, 3] for Ease of Use, Perceived Accuracy and Tactile Feel.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 16712289, "sent_id": 5, "text": "New York City is close to the linear trend, with a high HIV prevalence rate and a high % of SHR language in ads.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 78087743, "sent_id": 1, "text": "The graph for the vanilla environment is shown on left and the graph for the wild environment is shown on right.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 3, "text": "All participants destroyed more than 13 enemy planes.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 140247020, "sent_id": 0, "text": "Trend of the AdoptRate of Smart-toggle in Experiment 4.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482675, "sent_id": 0, "text": "``Heat maps presented and referred to in the paper are assembled as part of an overall comparison.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 108395187, "sent_id": 0, "text": "The image shows a table of the positional errors per condition (2x2): For (near,high) = 13.8 mm (SD 3.54 mm), for (near,low) = 28.9 mm (SD 6.85 mm), for (far,high) = 44.7 mm (SD 15.1 mm), for (far,low) = 46.5 mm (SD 5.98 mm).", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 1, "text": "Time on task Boxplot with task completion times for the three input devices.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 140306385, "sent_id": 1, "text": "The top graph shows the average binned offset along the x-axes of the smartphone screen and the location of clusters, three in total.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 2, "text": "Within each activity there is a column for each participant (who demonstrated any reaction while using this activity) which depicts the quantity of negative (black) and positive (gray) reactions he/she demonstrated while trying that activity.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 29, "text": "For P8, 13 out of 13 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 10, "text": "The other responses were under about 10%.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 4, "text": "Best Performing Single-Metric Model for Each Dependent Variable: 18.32\n2.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 207247195, "sent_id": 1, "text": "Choice set size is the independent variable and satisfaction is the dependent variable.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 1, "text": "The columns are grouped by activity (left to right): Colors, Money, Numbers, and Shapes.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 20, "text": "For P9, 21 out of 21 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 226068671, "sent_id": 0, "text": "Scatterplots showing the relationship between age and error rate for each of the four tasks.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 153313841, "sent_id": 0, "text": "Plot of Effect of Surfaced Hits on ML-1M.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52941724, "sent_id": 3, "text": "Next, results are shown for all 12 participants, with median value of 49.253 for Markup and 49.578 for ASR.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 3, "text": "It has 3 bars, from left: a red bar of height 3 (i.e., 3 participants out of 12) for the category of \"high effort\", a yellow bar of height 3 for \"medium effort\", and a green bar of height 6 for \"low effort\".", "labels": [1, 1, 0, 0]}
+{"corpus_id": 297030, "sent_id": 0, "text": "A line chart showing the average time it took participants on all tasks.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 7, "text": "7) Determine the arrow's position on the slide; 45.5%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 7, "text": "No Change had 66.4%, 12.1%, 8.4%, and 13.1%.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 18150448, "sent_id": 0, "text": "Three charts, one for each of the three days of the conference.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 16, "text": "For P5, 6 out of 6 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218482970, "sent_id": 3, "text": "In the first week, the self-disclosure levels were similar among the three groups; the difference increased around day 9, with HD being the highest and ND being the lowest to disclose their thoughts.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 3187042, "sent_id": 1, "text": "MultiTap has the largest MSD Error Rate, followed by QWERTY, NavTouch and BrailleTouch.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5046516, "sent_id": 2, "text": "On the horizontal axis are the labels for the WRAT accuracy levels in the study: WRAT-L, WRAT-M, and WRAT-H. All of the pairwise comparisons were not significant.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 233987070, "sent_id": 0, "text": "24 Likert-scale prompts and the distribution of students' responses from 'Strongly Disagree' to 'Strongly Agree'.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 2, "text": "The y axis is numeric, ranging from 0 to 1.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 5, "text": "5) Determine rectangle's and oval's positions in relation to each other; 36.4%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 5040507, "sent_id": 0, "text": "(1) High paying \"video evalution\" HITs push the hourly wage distribution up. (2) The CC distribution is skewed toward left by low hourly wages of \"transcribe data\" and \"transcribe image\" tasks.", "labels": [0, 0, 0, 1]}
+{"corpus_id": 140306385, "sent_id": 0, "text": "Figure 6  This figure shows two line graphs.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52944617, "sent_id": 2, "text": "P4 did not complete app switching on the control condition, and P5 did not complete the holistic task.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 218483529, "sent_id": 9, "text": "We mapped the 7-point Likert scale to a score in the range [-3, 3] for Ease of Use, Perceived Accuracy and Tactile Feel.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 4351563, "sent_id": 1, "text": "Meaningfulness is shown on the y-axis on a 1-7 point scale.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 0, "text": "This figure shows a stacked bar plot of percentages of a time-spent scale with 6 points.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 23, "text": "For P2, 64 out of 73 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 14909116, "sent_id": 0, "text": "Three bar charts of missed sounds (a) at home, (b) at work, and (c) while mobile.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 153313841, "sent_id": 1, "text": "Shows boycotts and data strikes.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 218483129, "sent_id": 16, "text": "For \u201cNo Trace\u201d and \u201cSidebar\u201d the majority of responses are on the left side.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 2, "text": "The x-axis has X categories \"On-screen\" and \"Paper\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 1, "text": "Each dot represents one of our 123 visually impaired participants.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 53224149, "sent_id": 0, "text": "A bubble chart shows a matrix of bubbles, where the rows are countries (U.S., China, Taiwan) and the columns are behavior categories.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 6618748, "sent_id": 0, "text": "This chart shows the average completion time (ms) across the three tasks, for each of the four conditions.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 4, "text": "Individual transcribers outperformed the automated approach at each intelligibility level.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 52941724, "sent_id": 0, "text": "A box plot displaying the Median Intensity across each condition, with units in decibels (dB).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 17, "text": "For P6, 1 out of 1 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 7, "text": "For the y-axis, dominance is depicted from 4.3 to 4.9.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 0, "text": "The figure consists of three graphs that show the average accuracy depending on the sample size during training, referred to as k-shot where k is the number of images used for training --- three sample sizes (20, 5, 1).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 25, "text": "For P4, 10 out of 11 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 4, "text": "For P2, 86 out of 95 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 0, "text": "Figure 7a.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 52937893, "sent_id": 2, "text": "In graph b, the line graph shows the training and testing accuracy of the bag of words model.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 7, "text": "For P5, 21 out of 25 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 14, "text": "The scale responses for 1-3 are on the left side, and 4-6 are on the right side.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218483029, "sent_id": 1, "text": "HMD curves are a tiny bit apart showing a lower value up until about 60%.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 10637511, "sent_id": 0, "text": "left: arm fatigue and neck fatigue vs. direction middle: arm fatigue and neck fatigue vs. angle group right: arm fatigue and neck fatigue vs. point of focus", "labels": [1, 0, 0, 0]}
+{"corpus_id": 201036718, "sent_id": 0, "text": "Histogram plot of mean discrimination volumes (bin size = 250) for our participants.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 2217868, "sent_id": 1, "text": "A graph shows the asymptotic dependency between increasing overlay thicknesses (from 0 to 20 mm) and the Signal-to-noise ratio.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218482708, "sent_id": 0, "text": "F1 scores of different indexes for the magnetic field distortion by different thresholds.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 3244562, "sent_id": 1, "text": "Also, there is a picture of the prototype's components: Arduino nano, FET shield, battery, charger, and micro USB connection.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 3, "text": "The error bar of each pointing conditions and the significant difference between each other are also visualised.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 218517784, "sent_id": 0, "text": "", "labels": [0, 0, 0, 0]}
+{"corpus_id": 226068671, "sent_id": 3, "text": "For crossing, a fit line for participants with motor impairments goes from about 10% to about 6% from the younger to older ends, and a fit line for participants without motor impairments goes from about 8.5% to about 2% from the younger to older ends.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 218483529, "sent_id": 8, "text": "Weighted average subjective feedback.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 2, "text": "I/O Braid was faster than Buttons (statistical significance).", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5040904, "sent_id": 2, "text": "Dots are colored by Listening Rate on a grayscale, with white being 0 and black being 100.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 2217868, "sent_id": 0, "text": "Comparison of touch / no touch for varying overlay thicknesses of PLA.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987866, "sent_id": 2, "text": "On the center left is a bar graph of the number of planes destroyed and number of collisions in Shoot 'em Up.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 9381142, "sent_id": 0, "text": "Graph of how many participants solved the puzzle: 100% with causal order, 63% with non-causal order.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 9, "text": "Intermittent pausing had means of 6.3, 7.3, and 7.45.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 8, "text": "For \"Suggestions\" 0% responded 1, 8.33% for 2, 16.67% for 3, 16.67% for 4, 41.67% for 5, and 16.67% for 6.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 218483032, "sent_id": 0, "text": "A scatterplot of points overlaid over a color space.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 226068671, "sent_id": 4, "text": "For steering, a fit line for participants with motor impairments goes from about 15% to about 15% from the younger to older ends, and a fit line for participants without motor impairments goes from about 8% to about 10% from the younger to older ends.", "labels": [0, 1, 1, 0]}
+{"corpus_id": 37154277, "sent_id": 8, "text": "Italics had 12.1%, 49.5%, 30.8%, and 7.5%.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483129, "sent_id": 1, "text": "Part (a) of the figure shows a stacked bar plot showing percentages of 6-point scale responses for different categories of User Initiative.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 233987070, "sent_id": 2, "text": "78 percent of students strongly favored the chat feature.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 52938981, "sent_id": 2, "text": "Y-axis is Identification Accuracy, ranging from 0-80.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 1, "text": "The x axis is the 4 markup styles: No Change, Yellow, Italics, and Underline.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5543753, "sent_id": 0, "text": "Bar chart showing the diffrent compeltion time deppening on the visibility of the target.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 78087743, "sent_id": 2, "text": "When using 5 images per object for training, the model achieves 0.539 (std: 0.099), 0.595 (std: 0.112), and 0.550 (std: 0.098) on the HO, CO, and O methods with the B data, respectively, and 0.788 (std: 0.098), 0.818 (std: 0.058), and 0.811 (std: 0.052) on the HO, CO, and O methods with the S data, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 218483529, "sent_id": 0, "text": "Figure 7a.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 7, "text": "Ratings (1, 2, 3) have been aggregated into \"low effort\", rating (4) is \"medium effort\", and ratings (5, 6, 7) have been aggregated into \"high effort\".", "labels": [1, 0, 0, 0]}
+{"corpus_id": 5543753, "sent_id": 0, "text": "The results of the questionaire shown as a bar chart.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 52938981, "sent_id": 1, "text": "This figure presents a bar chart, with separate bars for stationary (light blue) and animated (dark blue) characters.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 1, "text": "The x axis is numeric, ranging from 0 to 100%.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 207247195, "sent_id": 2, "text": "Choice set size is the independent variable and satisfaction is the dependent variable.", "labels": [0, 0, 0, 0]}
+{"corpus_id": 52944617, "sent_id": 1, "text": "Average task completion time of each task in the study.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 30, "text": "For P9, 10 out of 10 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 63285170, "sent_id": 2, "text": "Best Performing Single-Metric Model for Each Dependent Variable: 9.95\n2.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 5065176, "sent_id": 0, "text": "Probability density plot, showing the PDF as a lightly shaded interval, the predicted arrival time as a dark vertical bar, and the scheduled arrival time as a light vertical bar.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 225954078, "sent_id": 5, "text": "For \"Paper\",  31% responded \"> 60 minutes\",  16% responded \"30-60 minutes\",  12.5% responded \"15-29 minutes\",  31% responded \"10-15 minutes\",  12.5% responded \"5-9 minutes\",  3% responded \"1-4 minutes\",  22% responded \"None at all\".", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 0, "text": "Figure 2 - Histogram showing the distribution of word error rate of transcriptions generated by individual transcribers.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 4, "text": "4) Determine rectangle's and oval's positions on the slide; 50.0%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 231993774, "sent_id": 5, "text": "It has 3 bars, from left: a red bar of height 4 for the \"high effort\", a yellow bar of height 2 for \"medium effort\", and a green bar of height 6 for \"low effort\".", "labels": [1, 1, 0, 0]}
+{"corpus_id": 8035131, "sent_id": 27, "text": "For P6, 19 out of 19 were positive.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 199556928, "sent_id": 0, "text": "A graph showing precision-recall curves for overall labeling performance, and performance for each of the four types of labels.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 297030, "sent_id": 3, "text": "They all appear to be going down, but there is a big spike in the Verbal mode line at session 4.", "labels": [0, 0, 1, 0]}
+{"corpus_id": 234794797, "sent_id": 3, "text": "Speech rate had means of 7.1, 7.95, and 6.95 for high, medium, and low, respectively.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 51809667, "sent_id": 0, "text": "Figure 5 - Three line graphs showing word error rate of worker transcriptions in a 10-step iterative workflow, with step number on the X axis and word error rate on the Y axis.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 18150448, "sent_id": 1, "text": "Each chart shows time (x-axis) and part number (y-axis), and indicates the start through end time for each part with a line.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 1, "text": "The x axis is the 12 markup styles: no_change, bold_c, bold_u, color_c, color_u, del_u, it_u, r_gray, r_size, size_u, ul_u, and ul_gray_u.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 216635205, "sent_id": 0, "text": "This figure shows 2 plots for dominance (a and b).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 235175667, "sent_id": 2, "text": "103 classes were indoor mechanical sounds, 59 were presence of people or pets, 30 were non-urgent alerts, 22 were outdoor background, 11 were urgent alerts, and 18 were other sounds.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 37154277, "sent_id": 3, "text": "The most prominent feature is No Change with the highest ranking.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 52938981, "sent_id": 3, "text": "X-axis is ASL Sign, including four signs: WHERE, UNDERSTAND, MAYBE, and MOTIVATION.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 297030, "sent_id": 1, "text": "The y-axis of the chart is time in seconds (ranges from 0 to 60), the x-axis of the chart is session number (ranges from 1 to 6).", "labels": [1, 0, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 0, "text": "A grouped column graph showing results for means of satisfaction scores in the in-person study for each behavior.", "labels": [1, 0, 0, 0]}
+{"corpus_id": 233987344, "sent_id": 3, "text": "3) Identify rectangle width; 58.3%.", "labels": [1, 1, 0, 0]}
+{"corpus_id": 218482459, "sent_id": 3, "text": "The 2nd, 3rd, and 4th bars, coloured yellow, represent pointing techniques with VB, which are faster than pointing techniques with WD (5th, 6th, 7th bar), coloured blue.", "labels": [0, 1, 0, 0]}
+{"corpus_id": 234794797, "sent_id": 1, "text": "Each behavior is listed on the x-axis, with satisfaction scores on the y-axis.", "labels": [1, 0, 0, 0]}
