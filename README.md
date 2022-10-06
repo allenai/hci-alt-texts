@@ -2,7 +2,7 @@
 
 This repository contains the dataset and analysis scripts for the project described in the 2022 ASSETS paper:
 
-* Sanjana Chintalapati, Jonathan Bragg, Lucy Lu Wang. "A Dataset of Alt Texts from HCI Publications: Analyses and Uses Towards Producing More Descriptive Alt Texts of Data Visualizations in Scientific Papers." ASSETS 2022. (Preprint forthcoming)
+* [Sanjana Chintalapati, Jonathan Bragg, Lucy Lu Wang. "A Dataset of Alt Texts from HCI Publications: Analyses and Uses Towards Producing More Descriptive Alt Texts of Data Visualizations in Scientific Papers." ASSETS 2022.](https://arxiv.org/abs/2209.13718)
 
 We extract a dataset of alt text from HCI publications from the last decade, and provide annotations of the types of semantic content included in these alt texts based on the framework introduced by [Lundgard and Satyanarayan](http://vis.csail.mit.edu/pubs/vis-text-model/). Most figures in scientific papers lack alt text and we hope this dataset can help to improve the situation.
 
@@ -51,7 +51,7 @@ For access to the images associated with the dataset, download and unzip [this f
 2. Install Miniconda following the instructions [here](https://docs.conda.io/en/latest/miniconda.html)
 3. From the repo home, run `conda env create -n hci-alt-texts -f environment.yml`
 4. Run `conda activate hci-alt-texts`
-5. Now you should be able to execute all of the analysis scripts 
+5. Now you should be able to execute all of the analysis scripts. You may be prompted in some cases to install additional libraries or datasets.
 
 ## Analysis
 
